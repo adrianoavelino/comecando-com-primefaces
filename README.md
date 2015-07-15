@@ -1,2 +1,1 @@
-# comecando-com-primefaces
-Curso do Alagaworks
+# Começando com Primefaces
