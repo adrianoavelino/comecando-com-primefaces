@@ -5,5 +5,5 @@
  * aula 1.3
  * aula 1.4
  * [aula 1.5](./aula_1.5)
- * aula 1.6
+ * [aula 1.6](./aula_1.6)
  * aula 1.7
