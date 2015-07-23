@@ -69,7 +69,7 @@ Vamos explicar algumas ```tags```:
 ```
 
 Agora vamos criar o nosso primeiro arquivo ```xhtml```:  
-Botão direito do mouse na pasta _/comecando-primefaces/src/main/webapp/ > New > HTML file _ e crie o arquivo **Teste.xhtml** com o seguinte conteúdo:
+Botão direito do mouse na pasta _/comecando-primefaces/src/main/webapp/ > New > HTML file_ e crie o arquivo **Teste.xhtml** com o seguinte conteúdo:
 ```html
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
@@ -102,4 +102,13 @@ Botão direito do mouse na pasta _/comecando-primefaces/src/main/webapp/ > New >
 
 </h:body>
 </html>
+```
+Vamos entender um pouco do conteúdo desse arquivo:
+* importa o JSF no arquivo com o apelido ```h```:
+```xml
+xmlns:h="http://xmlns.jcp.org/jsf/html"
+```
+* importa o Primefaces no arquivo com o apelido ```p```:
+```xml
+xmlns:p="http://primefaces.org/ui"
 ```
